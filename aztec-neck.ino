@@ -67,8 +67,8 @@ int maxUs = 2500;
 // for the ESP32-S3 the GPIO pins are 1-21,35-45,47-48
 // for the ESP32-C3 the GPIO pins are 1-10,18-21
 
-int servo1Pin = 16;
-int servo2Pin = 22;
+int servo1Pin = 14;
+int servo2Pin = 12;
 
 int mytime = 39;
 
